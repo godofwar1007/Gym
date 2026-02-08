@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy
+scipy
+langchain-groq
+langchain-core
+transformers>=4.48.0
+torch
+pillow
+accelerate
+timm
+pydantic
+python-dotenv
